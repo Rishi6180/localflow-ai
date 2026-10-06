@@ -1,0 +1,22 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Temporary audio artifacts
+temp_recording.wav
+*.wav
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
